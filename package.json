@@ -1,0 +1,14 @@
+{
+  "name": "PokemonGoEvolution",
+  "version": "0.1.0",
+  "devDependencies": {
+    "handlebars": "^4.0.5"
+  },
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ericdrowell/PokemonGoEvolution.git"
+  },
+  "author": "Eric Rowell",
+  "license": "MIT"
+}

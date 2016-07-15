@@ -1,0 +1,58 @@
+<table cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th colspan="5">
+        Stage 1
+      </th>
+      <th colspan="5">
+        Stage 2
+      </th>
+      <th colspan="4">
+        Stage 3
+      </th>
+    </tr>
+    <tr>
+      <th>No.</th>
+      <th>Photo</th>
+      <th>Name</th>
+      <th>Candy</th>
+      <th></th>
+
+      <th>No.</th>
+      <th>Photo</th>
+      <th>Name</th>
+      <th>Candy</th>
+      <th></th>
+
+      <th>No.</th>
+      <th>Photo</th>
+      <th>Name</th>
+      <th>Candy</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each species}}
+    <tr>
+      {{#each stages}}
+      <td>
+        #{{number}}
+      </td>
+      <td>
+        <img src="img/{{number}}.png" title="{{name}}"/>
+      </td>
+      <td>
+        {{name}}
+      </td>
+      <td>
+        {{candy}}
+      </td>
+      {{#unless @last}}
+        <td class="arrow">
+          &#8594;
+        </td>
+      {{/unless}}
+      {{/each}}
+    </tr>
+    {{/each}}
+  </tbody>
+</table>

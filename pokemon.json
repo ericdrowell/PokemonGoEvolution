@@ -1,0 +1,25 @@
+{
+  "species": [
+    {
+      "stages": [
+        {"number": "001", "name": "Bulbasaur", "candy": 0}, 
+        {"number": "002", "name": "Ivysaur", "candy": 25},
+        {"number": "003", "name": "Venusaur", "candy": 100}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "004", "name": "Charmander", "candy": 0}, 
+        {"number": "005", "name": "Charmeleon", "candy": 25},
+        {"number": "006", "name": "Charizard", "candy": 100}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "007", "name": "Squirtle", "candy": 0}, 
+        {"number": "008", "name": "Wartortle", "candy": 25},
+        {"number": "009", "name": "Blastoise", "candy": 100}
+      ]
+    }
+  ]
+}
