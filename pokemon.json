@@ -251,6 +251,11 @@
     },
     {
       "stages": [
+        {"number": "095", "name": "Onix ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "096", "name": "Drowzee ", "candy": 0}, 
         {"number": "097", "name": "Hypno", "candy": 50}
       ]
@@ -307,6 +312,11 @@
       "stages": [
         {"number": "120", "name": "Staryu ", "candy": 0}, 
         {"number": "121", "name": "Starmie", "candy": 50}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "126", "name": "Magmar ", "candy": 0}
       ]
     },
     {
