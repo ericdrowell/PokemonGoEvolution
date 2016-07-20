@@ -220,6 +220,11 @@
     },
     {
       "stages": [
+        {"number": "083", "name": "Farfetch'd", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "084", "name": "Doduo ", "candy": 0}, 
         {"number": "085", "name": "Dodrio", "candy": 50}
       ]
@@ -286,6 +291,21 @@
     },
     {
       "stages": [
+        {"number": "106", "name": "Hitmonlee ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "107", "name": "Hitmonchan ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "108", "name": "Lickitung ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "109", "name": "Koffing ", "candy": 0}, 
         {"number": "110", "name": "Weezing", "candy": 50}
       ]
@@ -294,6 +314,16 @@
       "stages": [
         {"number": "111", "name": "Rhyhorn ", "candy": 0}, 
         {"number": "112", "name": "Rhydon", "candy": 50}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "113", "name": "Chansey ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "115", "name": "Kangaskhan ", "candy": 0}
       ]
     },
     {
@@ -316,13 +346,53 @@
     },
     {
       "stages": [
+        {"number": "122", "name": "Mr. Mime ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "123", "name": "Scyther ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "124", "name": "Jynx ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "125", "name": "Electabuzz ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "126", "name": "Magmar ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "127", "name": "Pinsir ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "128", "name": "Tauros ", "candy": 0}
       ]
     },
     {
       "stages": [
         {"number": "129", "name": "Magikarp ", "candy": 0}, 
         {"number": "130", "name": "Gyarados", "candy": 400}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "131", "name": "Lapras ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "132", "name": "Ditto ", "candy": 0}
       ]
     },
     {
@@ -345,6 +415,11 @@
     },
     {
       "stages": [
+        {"number": "137", "name": "Porygon ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "138", "name": "Omanyte ", "candy": 0}, 
         {"number": "139", "name": "Omastar", "candy": 50}
       ]
@@ -357,9 +432,44 @@
     },
     {
       "stages": [
+        {"number": "142", "name": "Aerodactyl ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "143", "name": "Snorlax ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "144", "name": "Articuno ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "145", "name": "Zapdos ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "146", "name": "Moltres ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
         {"number": "147", "name": "Dratini ", "candy": 0}, 
         {"number": "148", "name": "Dragonair", "candy": 25},
         {"number": "149", "name": "Dragonite", "candy": 100}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "150", "name": "Mewtwo ", "candy": 0}
+      ]
+    },
+    {
+      "stages": [
+        {"number": "151", "name": "Mew ", "candy": 0}
       ]
     }
   ]
